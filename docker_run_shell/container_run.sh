@@ -1,4 +1,4 @@
-	#!/bin/bash
+#!/bin/bash
 # Author : Doyoung Kim (https://github.com/KimDoYoung1997)
 
 # Set the project directory (PROJECT_DIR) as the parent directory of the current working directory
