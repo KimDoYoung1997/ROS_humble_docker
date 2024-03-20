@@ -1,5 +1,5 @@
 # Step 0. 
-`workspace로 이동  `
+`workspace로 이동  `  
 `cd ROS_humble_docker/docker_run_shell`  
 'docker build -t humble_jammy:240318 .'    
 
